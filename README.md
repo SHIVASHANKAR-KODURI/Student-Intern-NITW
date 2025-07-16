@@ -4,7 +4,8 @@ This project aims to detect plant diseases using **Convolutional Neural Networks
 
 ## CERTIFICATE
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/97034c1a-2518-4859-a0ad-86bde747f82e" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/85464efc-9f5d-4c97-8959-6dfa3f542a07" />
+
 
 
 ## 👨‍💻 Authors
