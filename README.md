@@ -2,6 +2,11 @@
 
 This project aims to detect plant diseases using **Convolutional Neural Networks (CNN)** to assist farmers in diagnosing plant health from leaf images, improving agricultural productivity and food security.
 
+## CERTIFICATE
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/97034c1a-2518-4859-a0ad-86bde747f82e" />
+
+
 ## 👨‍💻 Authors
 
 - **N. Siddhartha** – SR University  
